@@ -11,11 +11,11 @@ API Key
 
 You need a WeatherAPI key:
 Sign up at WeatherAPI
-api_key = "YOUR_API_KEY_HERE"
-
+api_key = "YOUR_API_KEY_" and {api-key}
 
 Replace the api_key variable in forecast.py with your API key
  Enter your city name when prompted:
 example ,Enter city name: Delhi
 
 View the 7-day forecast table with emojis in the console.
+
