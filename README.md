@@ -2,6 +2,7 @@
 
 A beginner-friendly Python application that fetches **current weather** and a **7-day forecast** for any city using [WeatherAPI](https://www.weatherapi.com/). The app displays weather conditions with **emojis** and presents the forecast in a **clean table format**.
 ---
+![image alt](https://github.com/NIZAM531/WeatherForecastApp/blob/4b8e58552014b6219b19de50cbe2fbacfa0ae25b/download%20(1).png)
 ## Features
 - Fetches **current temperature** and weather condition for any city.
 - Shows **7-day forecast** with min/max temperatures.
