@@ -17,3 +17,34 @@ A beginner-friendly Python application that fetches **current weather** and a **
 - Waits for user input before closing, so you can read the results.
 ---
 
+## Installation
+
+1. Make sure you have **Python 3.13** installed.
+2. Install the `requests` library:
+
+```bash
+pip install requests## Usage
+
+1. Open Command Prompt (Windows) or Terminal (macOS/Linux).
+2. Navigate to the folder containing `forecast.py`:
+
+```bash
+cd path/to/your/folder
+
+Run the script:
+python forecast.py
+
+API Key
+
+You need a WeatherAPI key:
+Sign up at WeatherAPI
+```bash
+api_key = "YOUR_API_KEY_" and {api-key}
+
+Replace the api_key variable in forecast.py with your API key
+ Enter your city name when prompted:
+example,
+```bash
+Enter city name: Delhi
+
+View the 7-day forecast table with emojis in the console.
