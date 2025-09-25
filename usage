@@ -1,0 +1,13 @@
+## Usage
+1. Open Command Prompt (Windows) or Terminal (macOS/Linux).
+2. Navigate to the folder containing `forecast.py`:
+```bash
+cd path/to/your/folder
+
+Run the script:
+python forecast.py
+
+ Enter your city name when prompted:
+example ,Enter city name: Delhi
+
+View the 7-day forecast table with emojis in the console.
