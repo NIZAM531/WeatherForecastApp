@@ -16,8 +16,4 @@ A beginner-friendly Python application that fetches **current weather** and a **
 - Tabular output for easy reading.
 - Waits for user input before closing, so you can read the results.
 ---
-## Installation
-1. Make sure you have **Python 3.13** installed.
-2. Install the `requests` library:
-```bash
-pip install requests
+
